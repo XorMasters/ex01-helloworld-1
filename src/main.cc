@@ -1,12 +1,12 @@
 /**
  * CS V13 Object-Oriented Programming
- * CRN: [CHANGE THIS INFORMATION]
+ * CRN: 712345
  * Assignment: EX01-HelloWorld
  *
  * Statement of code ownership: I hereby state that I have written all of this
  * code and I have not copied this code from any other person or source.
  *
- * @author [CHANGE THIS INFORMATION]
+ * @author aknight@vcccd.edu
  */
 
 #include <iostream>
